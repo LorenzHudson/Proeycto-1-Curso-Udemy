@@ -7,32 +7,22 @@
     --gris:#757575;
 
     /*Tamaños de letra*/
-    --Tamaño-estandar:2.5em;
-    --Tamaño-grande:3.5rem;
-}
-html{
-
 }
 body{
-    font-size: 85.4%;
+    font-size: 16px;
     font-family: "Google Sans Code", monospace;
 }
 .encabezado{
     text-align: center;
-    font-style: italic;
-    font-size: var(--Tamaño-grande);
-    color:var(--amarillo-patito);
-}
-.encabezado span{
-    font-size: 1.5rem;
-}
-.titulo2{
     font-size: 2rem;
-    text-align: center;
 }
 .contenedor{
     width: 120rem;
+    margin-left: 20rem;
+    margin-top: auto;
+    margin-left: 20rem;
+    margin-bottom: auto;
 }
 .enlace-encabezado{
-    background-color:var(--azul);
+    background-color: yellow;
 }
